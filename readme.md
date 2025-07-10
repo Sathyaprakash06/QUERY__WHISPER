@@ -2,7 +2,7 @@
 
 A powerful Flask web application that converts natural language queries into SQL statements and executes them across multiple database systems using AI-powered query generation.
 
-## ✨ Features
+##  Features
 
 ### 🔐 Authentication & Authorization
 - **User Registration & Login**: Secure user authentication with bcrypt password hashing
